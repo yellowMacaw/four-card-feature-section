@@ -87,6 +87,9 @@ header{
 header span{
   font-weight: var(--fw-light);
 }
+header p{
+  margin-top: 2rem;
+}
 
 main{
   padding-block-end: 5rem;
